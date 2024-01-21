@@ -14,3 +14,5 @@ def printpascal(n):
 
 n = int(input())
 printpascal(n)
+
+# nothing to change:))
