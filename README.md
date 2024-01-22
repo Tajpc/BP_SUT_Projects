@@ -12,11 +12,11 @@ Description: solving the problems in the doctors building and helping to Mrs.SHI
 
 Branch: `question1`
 
-### Project 2: [Project_Name_2]
+### Project 2: [Tom & Jerry]
 
 Description: Outline the second project and its objectives.
 
-Branch: `project-2`
+Branch: `question2`
 
 ### ...
 
